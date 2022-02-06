@@ -2,7 +2,6 @@
 比特币海龟量化交易
 
 
-![image](https://github.com/DengJianJing/BenFuteNew/blob/main/ben1.jpg)
-![image](https://github.com/DengJianJing/BenFuteNew/blob/main/ben2.jpg)
-![image](https://github.com/DengJianJing/BenFuteNew/blob/main/ben3.jpg)
-![image](https://github.com/DengJianJing/BenFuteNew/blob/main/ben4.jpg)
+![image](https://github.com/DengJianJing/BTC_haigui/blob/main/haigui1.png)
+![image](https://github.com/DengJianJing/BTC_haigui/blob/main/haigui2.png)
+
